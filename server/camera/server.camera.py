@@ -1,3 +1,6 @@
+# Source
+# https://github.com/ancabilloni/udp_camera_streaming
+
 #!/usr/bin/env python
 
 from __future__ import division
